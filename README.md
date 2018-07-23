@@ -2,5 +2,5 @@
 The bot provides trading facilities with oanda online-broker
 
 Dependencies:
-Python 3.5+
-oandapyV20
+Python 3.5+,
+OandapyV20
